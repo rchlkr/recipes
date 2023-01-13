@@ -53,3 +53,9 @@ img,
 .external-link-svg {
 	width: auto;
 }
+
+@media (max-width: 768px) {
+	body {
+		margin-right: 40px;
+	}
+}
